@@ -1,0 +1,36 @@
+
+       
+        
+        .tema{ 
+            color: #f8f9f6;
+            font-size: 30px;
+        background-image: url(tema.png);
+        background-size: cover;
+       padding: 10%; 
+        height: 400px;
+        text-align: center;
+       
+    }
+
+
+
+            .inicio {
+            color: #d3def7;
+            font: normar 30pt arial; 
+   
+        }
+      
+        body{
+            background-color: #014f80;
+            color:#d3def7 ;
+       margin: 0;
+       padding: 0;
+       height: 200%;
+       font-size: 20px;
+       margin: 30px;
+        }
+
+
+
+      
+
